@@ -1,0 +1,7 @@
+{
+  "name": "Lovable Clone",
+  "description": "A high-fidelity clone of the Lovable UI featuring a vibrant gradient background, a central AI input interface, and a project dashboard, integrated with Google Gemini API for idea generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
